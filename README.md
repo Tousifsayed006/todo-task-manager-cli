@@ -1,4 +1,4 @@
------------------------------------------------To-Do Task Manager CLI-----------------------------------------------------
+-----------------------------------------------To-Do Task Manager CLI------------------------------------------------
 
 #Description:-
 
@@ -23,6 +23,7 @@ Save and Exit: Save the current tasks and exit the application.
 #Project Structure:-
 
 main.c – The main program logic.
+
 tasks.dat – File for saving tasks (created after first run).
 
 #Contributions:-
